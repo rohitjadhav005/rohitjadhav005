@@ -37,4 +37,5 @@ To become a skilled **AI & Data Science Engineer** with strong software developm
 
 ### 📫 Connect With Me
 - GitHub: https://github.com/rohitjadhav005  
-- LinkedIn: *(add when available)*  
+- LinkedIn: https://www.linkedin.com/in/rohit-jadhav-bba22731a/  
+
