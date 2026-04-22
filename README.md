@@ -1,4 +1,4 @@
-# Hi there, I'm Rohit Jadhav 👋
+# Hi there, I'm Rohit Jadhav 
 
 ## About Me
 
