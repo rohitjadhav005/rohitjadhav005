@@ -1,83 +1,161 @@
-# Hi there, I'm Rohit Jadhav 
+# Rohit Jadhav
 
-## About Me
+### Artificial Intelligence & Data Science Student | Machine Learning Developer | Full Stack Developer
 
-I'm a third-year **Artificial Intelligence & Data Science** student at **Savitribai Phule Pune University (SPPU)**, passionate about leveraging technology to solve real-world problems. My interests span across Machine Learning, Data Science, and Full Stack Development, with a focus on building practical, impactful projects.
+I am a third-year **Artificial Intelligence & Data Science** student at **Savitribai Phule Pune University (SPPU)** with a strong interest in Machine Learning, Data Science, Backend Engineering, and Full Stack Development.
 
-Currently, I'm strengthening my fundamentals in AI/ML while gaining hands-on experience through project-based learning and continuous skill development.
-
----
-
-## 🛠️ Technical Skills
-
-**Programming Languages**
-- Python, JavaScript
-
-**Data Science & Machine Learning**
-- Data Analysis: NumPy, Pandas, Matplotlib
-- Machine Learning: Scikit-learn
-- Currently exploring: Deep Learning fundamentals
-
-**Web Development**
-- Frontend: HTML, CSS, JavaScript
-- Backend: FastAPI
-- Database: SQLite
-
-**Development Tools**
-- Version Control: Git, GitHub
-- IDE: Visual Studio Code
-- APIs: OpenAI
+My goal is to build scalable software and intelligent systems that transform data into actionable insights. I enjoy developing practical applications, solving real-world problems, and continuously expanding my technical expertise through projects and hands-on learning.
 
 ---
 
-## 🚀 Featured Projects
+## Portfolio
+
+**Website:** https://rohitjadhav005.netlify.app/
+
+---
+
+## Technical Skills
+
+### Languages
+
+* Python
+* JavaScript
+* SQL
+
+### Data Science & Machine Learning
+
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* Data Analysis
+* Data Visualization
+* Feature Engineering
+* Machine Learning Model Development
+
+### Backend Development
+
+* FastAPI
+* REST APIs
+* API Integration
+
+### Frontend Development
+
+* HTML5
+* CSS3
+* JavaScript
+
+### Databases
+
+* SQLite
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Visual Studio Code
+* Vercel
+* Netlify
+
+---
+
+## Featured Projects
+
+### GeoLet — Global Conflict & Trade Intelligence Dashboard
+
+A real-time geopolitical intelligence platform designed to monitor global conflicts, energy markets, shipping routes, trade disruptions, and international events through an interactive analytics dashboard.
+
+**Technologies:** React, FastAPI, Python, Data Visualization
+
+**Key Features**
+
+* Interactive global conflict monitoring
+* Energy and commodity tracking
+* Trade route analysis
+* Real-time intelligence dashboard
+* Modern glassmorphism-based interface
+
+---
+
+### Election Outcome Prediction System
+
+A machine learning application developed to analyze historical election data and predict political party performance using predictive analytics models.
+
+**Technologies:** Python, Scikit-learn, Flask, Pandas, NumPy
+
+**Key Features**
+
+* Historical election data analysis
+* Machine learning-based predictions
+* Data preprocessing pipeline
+* Interactive prediction interface
+
+---
 
 ### AI Desktop Voice Assistant
-A Python-based voice assistant with natural language processing capabilities for desktop automation and intelligent task handling.
 
-**Tech Stack:** Python, Speech Recognition, NLP
+A desktop automation assistant capable of executing commands and performing tasks through voice interaction and natural language processing.
 
-### Hotel Management System *(In Progress)*
-A comprehensive full-stack application for hotel operations management, including booking, customer management, and administrative features.
-
-**Tech Stack:** FastAPI, JavaScript, SQLite
-
-### Python CRUD Applications
-Multiple applications demonstrating Create, Read, Update, and Delete operations with various data management scenarios.
-
-**Tech Stack:** Python, SQLite
+**Technologies:** Python, Speech Recognition, NLP
 
 ---
 
-## 🌱 Currently Learning
+### Hotel Management System
 
-- Advanced Machine Learning algorithms and model optimization
-- Backend development patterns with FastAPI
-- Data Structures & Algorithms in Python
-- Software engineering best practices
+A full-stack application for managing hotel operations including room booking, customer records, and administrative management.
 
----
-
-## 🎯 Career Aspirations
-
-I'm working towards becoming a proficient **AI & Data Science Engineer** and **Full Stack Developer** by:
-
-- Building a strong foundation in machine learning and statistical analysis
-- Developing production-ready applications with modern tech stacks
-- Contributing to open-source projects
-- Staying updated with industry trends and emerging technologies
+**Technologies:** FastAPI, JavaScript, SQLite
 
 ---
 
-## 📫 Let's Connect
+## Current Focus
 
-[![GitHub](https://img.shields.io/badge/GitHub-rohitjadhav005-181717?style=for-the-badge&logo=github)](https://github.com/rohitjadhav005)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Jadhav-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-jadhav-bba22731a/)
-
-Feel free to reach out for collaborations, discussions about AI/ML, or just to connect!
+* Advanced Machine Learning
+* Deep Learning Fundamentals
+* FastAPI Architecture
+* Software Engineering Best Practices
+* Data Structures & Algorithms
+* Production-Ready Application Development
 
 ---
 
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/rohitjadhav005">rohitjadhav005</a></i>
-</div>
+## Professional Objectives
+
+* Develop expertise in Artificial Intelligence and Data Science
+* Build scalable and maintainable software solutions
+* Contribute to open-source projects
+* Gain industry experience through impactful projects
+* Continuously learn emerging technologies and development practices
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitjadhav005&show_icons=true&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitjadhav005&layout=compact&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitjadhav005" alt="GitHub Streak"/>
+</p>
+
+---
+
+## Connect
+
+**Portfolio**
+https://rohitjadhav005.netlify.app/
+
+**GitHub**
+https://github.com/rohitjadhav005
+
+**LinkedIn**
+https://www.linkedin.com/in/rohit-jadhav-bba22731a/
+
+---
+
+*"Focused on building intelligent systems, solving real-world problems, and continuously improving through learning and development."*
