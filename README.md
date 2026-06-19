@@ -1,161 +1,158 @@
+<div align="center">
+
 # Rohit Jadhav
 
-### Artificial Intelligence & Data Science Student | Machine Learning Developer | Full Stack Developer
+### AI & Data Science Student · ML Developer · Full Stack Engineer
 
-I am a third-year **Artificial Intelligence & Data Science** student at **Savitribai Phule Pune University (SPPU)** with a strong interest in Machine Learning, Data Science, Backend Engineering, and Full Stack Development.
+[![Portfolio](https://img.shields.io/badge/Portfolio-rohitjadhav005.netlify.app-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://rohitjadhav005.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-rohitjadhav005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitjadhav005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Jadhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-jadhav-bba22731a/)
 
-My goal is to build scalable software and intelligent systems that transform data into actionable insights. I enjoy developing practical applications, solving real-world problems, and continuously expanding my technical expertise through projects and hands-on learning.
-
----
-
-## Portfolio
-
-**Website:** https://rohitjadhav005.netlify.app/
+</div>
 
 ---
 
-## Technical Skills
+## About Me
+
+I'm a **third-year Artificial Intelligence & Data Science** student at **Savitribai Phule Pune University (SPPU)**, passionate about turning data into decisions and ideas into software.
+
+My work sits at the intersection of **Machine Learning**, **Data Engineering**, and **Full Stack Development** — I build systems that are intelligent, scalable, and built to solve real problems. From predictive models to production APIs, I'm focused on writing code that ships and creates value.
+
+> *"Focused on building intelligent systems, solving real-world problems, and continuously improving through learning and development."*
+
+---
+
+## Tech Stack
 
 ### Languages
-
-* Python
-* JavaScript
-* SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Data Science & Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
-* Data Analysis
-* Data Visualization
-* Feature Engineering
-* Machine Learning Model Development
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### Backend Development
-
-* FastAPI
-* REST APIs
-* API Integration
-
-### Frontend Development
-
-* HTML5
-* CSS3
-* JavaScript
-
-### Databases
-
-* SQLite
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Tools & Platforms
-
-* Git
-* GitHub
-* Visual Studio Code
-* Vercel
-* Netlify
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### GeoLet — Global Conflict & Trade Intelligence Dashboard
+### 🌍 GeoLet — Global Conflict & Trade Intelligence Dashboard
+> *Real-time geopolitical monitoring platform with an interactive analytics dashboard*
 
-A real-time geopolitical intelligence platform designed to monitor global conflicts, energy markets, shipping routes, trade disruptions, and international events through an interactive analytics dashboard.
+A full-stack intelligence platform that tracks global conflicts, energy markets, shipping disruptions, and international events — presented through a modern glassmorphism interface.
 
-**Technologies:** React, FastAPI, Python, Data Visualization
+**Stack:** `React` `FastAPI` `Python` `Data Visualization`
 
-**Key Features**
-
-* Interactive global conflict monitoring
-* Energy and commodity tracking
-* Trade route analysis
-* Real-time intelligence dashboard
-* Modern glassmorphism-based interface
-
----
-
-### Election Outcome Prediction System
-
-A machine learning application developed to analyze historical election data and predict political party performance using predictive analytics models.
-
-**Technologies:** Python, Scikit-learn, Flask, Pandas, NumPy
-
-**Key Features**
-
-* Historical election data analysis
-* Machine learning-based predictions
-* Data preprocessing pipeline
-* Interactive prediction interface
+**Highlights:**
+- Interactive global conflict map with live data overlays
+- Commodity & energy market tracking
+- Trade route disruption analysis
+- Clean glassmorphism-based UI/UX
 
 ---
 
-### AI Desktop Voice Assistant
+### 🗳️ Election Outcome Prediction System
+> *ML-powered political analytics using historical election data*
 
-A desktop automation assistant capable of executing commands and performing tasks through voice interaction and natural language processing.
+A machine learning application that analyses historical election patterns and predicts political party performance using a full data preprocessing and modeling pipeline.
 
-**Technologies:** Python, Speech Recognition, NLP
+**Stack:** `Python` `Scikit-learn` `Flask` `Pandas` `NumPy`
 
----
-
-### Hotel Management System
-
-A full-stack application for managing hotel operations including room booking, customer records, and administrative management.
-
-**Technologies:** FastAPI, JavaScript, SQLite
-
----
-
-## Current Focus
-
-* Advanced Machine Learning
-* Deep Learning Fundamentals
-* FastAPI Architecture
-* Software Engineering Best Practices
-* Data Structures & Algorithms
-* Production-Ready Application Development
+**Highlights:**
+- End-to-end ML pipeline from raw data to predictions
+- Feature engineering on historical election datasets
+- Interactive web interface for model querying
+- Comparative performance analysis across models
 
 ---
 
-## Professional Objectives
+### 🎙️ AI Desktop Voice Assistant
+> *NLP-powered desktop automation through natural voice commands*
 
-* Develop expertise in Artificial Intelligence and Data Science
-* Build scalable and maintainable software solutions
-* Contribute to open-source projects
-* Gain industry experience through impactful projects
-* Continuously learn emerging technologies and development practices
+A Python-based desktop assistant capable of executing system commands and performing tasks through speech recognition and natural language processing.
 
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitjadhav005&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitjadhav005&layout=compact&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitjadhav005" alt="GitHub Streak"/>
-</p>
+**Stack:** `Python` `Speech Recognition` `NLP`
 
 ---
 
-## Connect
+### 🏨 Hotel Management System
+> *Full-stack operations management for hospitality workflows*
 
-**Portfolio**
-https://rohitjadhav005.netlify.app/
+A complete full-stack application handling room bookings, customer records, and administrative tasks with a clean API-first architecture.
 
-**GitHub**
-https://github.com/rohitjadhav005
-
-**LinkedIn**
-https://www.linkedin.com/in/rohit-jadhav-bba22731a/
+**Stack:** `FastAPI` `JavaScript` `SQLite`
 
 ---
 
-*"Focused on building intelligent systems, solving real-world problems, and continuously improving through learning and development."*
+## Currently Learning
+
+```
+📌  Deep Learning Fundamentals
+📌  Advanced ML Techniques
+📌  FastAPI Production Architecture
+📌  Data Structures & Algorithms
+📌  Software Engineering Best Practices
+```
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rohitjadhav005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitjadhav005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitjadhav005&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## Professional Goals
+
+- Build and deploy production-grade AI/ML applications
+- Contribute meaningfully to open-source projects
+- Deepen expertise in Deep Learning and MLOps
+- Secure a high-impact internship or role in AI/Data Science
+- Develop scalable, maintainable systems that solve real-world problems
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-0A66C2?style=for-the-badge)](https://rohitjadhav005.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/rohitjadhav005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-jadhav-bba22731a/)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>🎓 B.E. in Artificial Intelligence & Data Science · Savitribai Phule Pune University (SPPU) · 3rd Year</sub>
+</div>
