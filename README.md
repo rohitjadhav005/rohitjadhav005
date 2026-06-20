@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a **third-year Artificial Intelligence & Data Science** student at **Savitribai Phule Pune University (SPPU)**, passionate about turning data into decisions and ideas into software.
+I'm a **fourth-year Artificial Intelligence & Data Science** student at **Savitribai Phule Pune University (SPPU)**, passionate about turning data into decisions and ideas into software.
 
 My work sits at the intersection of **Machine Learning**, **Data Engineering**, and **Full Stack Development** — I build systems that are intelligent, scalable, and built to solve real problems. From predictive models to production APIs, I'm focused on writing code that ships and creates value.
 
@@ -154,5 +154,5 @@ A complete full-stack application handling room bookings, customer records, and 
 ---
 
 <div align="center">
-  <sub>🎓 B.E. in Artificial Intelligence & Data Science · Savitribai Phule Pune University (SPPU) · 3rd Year</sub>
+  <sub>🎓 B.E. in Artificial Intelligence & Data Science · Savitribai Phule Pune University (SPPU) · 4th Year</sub>
 </div>
