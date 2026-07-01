@@ -4,7 +4,6 @@
 
 ### AI & Data Science Student · ML Developer · Full Stack Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rohitjadhav005.netlify.app-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://rohitjadhav005.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-rohitjadhav005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitjadhav005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Jadhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-jadhav-bba22731a/)
 
@@ -26,6 +25,7 @@ My work sits at the intersection of **Machine Learning**, **Data Engineering**, 
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -50,7 +50,7 @@ My work sits at the intersection of **Machine Learning**, **Data Engineering**, 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 ---
 
@@ -107,11 +107,10 @@ A complete full-stack application handling room bookings, customer records, and 
 ## Currently Learning
 
 ```
-📌  Deep Learning Fundamentals
+📌  React and its Applications
 📌  Advanced ML Techniques
 📌  FastAPI Production Architecture
-📌  Data Structures & Algorithms
-📌  Software Engineering Best Practices
+📌  Data Structures & Algorithms in Java
 ```
 
 ---
@@ -145,7 +144,6 @@ A complete full-stack application handling room bookings, customer records, and 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-0A66C2?style=for-the-badge)](https://rohitjadhav005.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/rohitjadhav005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-jadhav-bba22731a/)
 
