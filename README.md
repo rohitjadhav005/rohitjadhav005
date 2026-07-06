@@ -4,6 +4,7 @@
 
 ### AI & Data Science Student · ML Developer · Full Stack Engineer
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliorohit0005.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-rohitjadhav005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitjadhav005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Jadhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-jadhav-bba22731a/)
 
@@ -13,9 +14,9 @@
 
 ## About Me
 
-I'm a **fourth-year Artificial Intelligence & Data Science** student at **Savitribai Phule Pune University (SPPU)**, passionate about turning data into decisions and ideas into software.
+I'm a **third-year Artificial Intelligence & Data Science** student at **Savitribai Phule Pune University (SPPU)**, passionate about turning data into decisions and ideas into software.
 
-My work sits at the intersection of **Machine Learning**, **Data Engineering**, and **Full Stack Development** — I build systems that are intelligent, scalable, and built to solve real problems. From predictive models to production APIs, I'm focused on writing code that ships and creates value.
+My work sits at the intersection of **Machine Learning**, **Data Engineering**, and **Full Stack Development** — I build systems that are intelligent, scalable, and built to solve real problems. From predictive models to production APIs and polished, animated web apps, I'm focused on writing code that ships and creates value.
 
 > *"Focused on building intelligent systems, solving real-world problems, and continuously improving through learning and development."*
 
@@ -26,6 +27,7 @@ My work sits at the intersection of **Machine Learning**, **Data Engineering**, 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -37,11 +39,15 @@ My work sits at the intersection of **Machine Learning**, **Data Engineering**, 
 
 ### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -56,18 +62,48 @@ My work sits at the intersection of **Machine Learning**, **Data Engineering**, 
 
 ## Featured Projects
 
-### 🌍 GeoLet — Global Conflict & Trade Intelligence Dashboard
+### 📡 GeoLet — Global Conflict & Trade Intelligence Dashboard
 > *Real-time geopolitical monitoring platform with an interactive analytics dashboard*
 
-A full-stack intelligence platform that tracks global conflicts, energy markets, shipping disruptions, and international events — presented through a modern glassmorphism interface.
+A modern, real-time dashboard that monitors global energy supplies, pipeline statuses, geopolitical conflicts, and market pricing, presented through a glassmorphism-based UI.
 
-**Stack:** `React` `FastAPI` `Python` `Data Visualization`
+**Stack:** `React` `JavaScript` `Data Visualization` `Web APIs`
+**Repo:** [github.com/rohitjadhav005/GeoLet](https://github.com/rohitjadhav005/GeoLet)
 
 **Highlights:**
 - Interactive global conflict map with live data overlays
 - Commodity & energy market tracking
-- Trade route disruption analysis
+- Trade route and pipeline disruption analysis
 - Clean glassmorphism-based UI/UX
+
+---
+
+### 🧠 Vitality-AI
+> *AI-powered health analytics for daily performance optimization*
+
+A machine learning application that predicts energy and productivity levels from custom health metrics, helping users optimize their daily routines.
+
+**Stack:** `Python` `Machine Learning` `JavaScript`
+**Repo:** [github.com/rohitjadhav005/Vitality-AI](https://github.com/rohitjadhav005/Vitality-AI)
+
+---
+
+### 💼 Personal Portfolio Website
+> *A premium, animated, full-stack developer portfolio*
+
+My personal site, rebuilt from the ground up with a modern React + TypeScript stack, featuring interactive 3D tilt effects, a scroll-driven skill stack, a custom cursor, and smooth-scroll physics.
+
+**Stack:** `React 19` `TypeScript` `Vite` `Tailwind CSS v4` `Framer Motion` `Lenis`
+**Live:** [portfoliorohit0005.vercel.app](https://portfoliorohit0005.vercel.app)
+**Repo:** [github.com/rohitjadhav005/portfoliorohit005](https://github.com/rohitjadhav005/portfoliorohit005)
+
+**Highlights:**
+- Interactive 3D tilt & perspective transforms via Framer Motion
+- Scroll-based `ScrollStack` skill cards with dynamic scale/blur
+- Custom theme-aware interactive cursor
+- Dark/light mode with persisted preference
+- Web3Forms-powered contact form
+- Oxlint-linted, fully typed TypeScript codebase
 
 ---
 
@@ -107,8 +143,8 @@ A complete full-stack application handling room bookings, customer records, and 
 ## Currently Learning
 
 ```
-📌  React and its Applications
-📌  Advanced ML Techniques
+📌  Advanced React & Framer Motion Animation Patterns
+📌  Advanced ML Techniques & MLOps
 📌  FastAPI Production Architecture
 📌  Data Structures & Algorithms in Java
 ```
@@ -144,6 +180,7 @@ A complete full-stack application handling room bookings, customer records, and 
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel)](https://portfoliorohit0005.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/rohitjadhav005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-jadhav-bba22731a/)
 
@@ -152,5 +189,5 @@ A complete full-stack application handling room bookings, customer records, and 
 ---
 
 <div align="center">
-  <sub>🎓 B.E. in Artificial Intelligence & Data Science · Savitribai Phule Pune University (SPPU) · 4th Year</sub>
+  <sub>🎓 B.E. in Artificial Intelligence & Data Science · Savitribai Phule Pune University (SPPU) · 3rd Year</sub>
 </div>
