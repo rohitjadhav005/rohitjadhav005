@@ -29,29 +29,33 @@ I prefer learning by building things, breaking them, fixing them, and gradually 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,sql" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,sql" alt="Languages" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" alt="Frontend" />
 </p>
 
-### Backend & Data
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,sqlite" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,sqlite" alt="Backend" />
 </p>
 
+### Data Science & Machine Learning
+
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker" alt="Tools" />
 </p>
 
 ---
@@ -118,21 +122,13 @@ Software Engineering Practices
 
 ---
 
-## GitHub
+## GitHub Stats
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=rohitjadhav005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-height="165"
-alt="GitHub Stats"
-/>
+![GitHub Stats](https://github-readme-stats-gamma-ebon-78.vercel.app/api?username=rohitjadhav005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitjadhav005&layout=compact&theme=tokyonight&hide_border=true"
-height="165"
-alt="Top Languages"
-/>
+![Top Languages](https://github-readme-stats-gamma-ebon-78.vercel.app/api/top-langs/?username=rohitjadhav005&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -150,9 +146,9 @@ My goal is to become a well-rounded software engineer who can work across **fron
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square\&logo=vercel\&logoColor=white)](https://portfoliorohit0005.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rohit-jadhav-bba22731a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/rohitjadhav005)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfoliorohit0005.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-jadhav-bba22731a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohitjadhav005)
 
 </div>
 
