@@ -129,19 +129,13 @@ Software Engineering Practices
 <table>
   <tr>
     <td><img src="https://github-readme-stats-gamma-ebon-78.vercel.app/api?username=rohitjadhav005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="410" /></td>
-    <td><img src="https://streak-stats.demolab.com/?user=rohitjadhav005&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="410" /></td>
+    <td><img src="https://github-readme-stats-gamma-ebon-78.vercel.app/api/top-langs/?username=rohitjadhav005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="410" /></td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats-gamma-ebon-78.vercel.app/api/top-langs/?username=rohitjadhav005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="410" />
-
-<br /><br />
+<br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitjadhav005&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="850" />
-
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=rohitjadhav005&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" width="850" />
 
 </div>
 
