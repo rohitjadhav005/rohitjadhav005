@@ -6,7 +6,9 @@
 
 Building web applications, exploring AI/ML, and improving my problem-solving skills through projects.
 
-[Portfolio](https://portfoliorohit0005.vercel.app) · [LinkedIn](https://www.linkedin.com/in/rohit-jadhav-bba22731a/) · [GitHub](https://github.com/rohitjadhav005)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=7aa2f7)](https://portfoliorohit0005.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/rohit-jadhav-bba22731a/)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7)](https://github.com/rohitjadhav005)
 
 </div>
 
@@ -153,9 +155,9 @@ My goal is to become a well-rounded software engineer who can work across **fron
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfoliorohit0005.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-jadhav-bba22731a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohitjadhav005)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=7aa2f7)](https://portfoliorohit0005.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/rohit-jadhav-bba22731a/)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7)](https://github.com/rohitjadhav005)
 
 </div>
 
